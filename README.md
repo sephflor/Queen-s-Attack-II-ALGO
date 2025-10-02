@@ -1,1 +1,1 @@
-# Queen-s-Attack-II-ALGO
+# Queen-s-Attack-II-ALGO.This solution calculates how many squares a chess queen can attack by tracking the closest obstacle in each of the 8 possible directions and summing the available moves. It efficiently processes obstacles to find the limiting obstacle in each direction rather than checking every possible square.
